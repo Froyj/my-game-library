@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  align-items: center;
+  background-color: #222222;
+}
+
+.header-title {
+  color: #75fe01;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2em;
+}
+
+.header-img {
+  max-width: 75px;
+  height: auto;
+  margin: 2em;
+}
